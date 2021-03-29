@@ -76,7 +76,7 @@ fn main() {
     let triangle=triangle{bottom: 10,high: 10 };
     getArea(&triangle);
 
-     //三角形面积
+     //正方形面积
      let square=square{length: 5 };
      getArea(&square);
 }
